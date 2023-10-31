@@ -47,8 +47,8 @@ Contribuições são bem-vindas! Se você deseja contribuir para este projeto, s
 
 ## Contato
 
-https://www.linkedin.com/in/diogo-fontoura/
-https://github.com/Psykhepathos
+- https://www.linkedin.com/in/diogo-fontoura/
+- https://github.com/Psykhepathos
 
 ## Agradecimentos
 
