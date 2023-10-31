@@ -20,7 +20,7 @@ Este projeto consiste em uma aplicação móvel desenvolvida em Flutter, voltada
 - Biblioteca provider
 - Biblioteca flutter_slidable
 - Biblioteca intl
-- flutter_local_notifications
+- Biblioteca flutter_local_notifications
 
 ## Como Usar
 Configure a URL para entrada das API REST do GLPI, compile o aplicativo.
